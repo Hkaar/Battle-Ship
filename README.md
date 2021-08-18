@@ -1,4 +1,4 @@
-#Welcome to Battle Ship!
+# Welcome to Battle Ship!
 A Battle Ship game made with PySide2 and Python3
 
 Copyright (c) 2021 Hkaar
