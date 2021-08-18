@@ -1,5 +1,4 @@
-Welcome to Battle Ship!
-
+# Welcome to Battle Ship!
 A Battle Ship game made with PySide2 and Python3
 
 Copyright (c) 2021 Hkaar
@@ -28,6 +27,7 @@ or fight against the computer, you control and command your ships attack against
 fleet to win the battle.
 
 HOW TO PLAY:
+
 Deploy Phase:
    - Select and deploy your ships.
    - Select your ships from the left side panel.
